@@ -289,4 +289,4 @@ if __name__ == "__main__":
 
   # 2. Processa os cálculos e exibe o boletim estruturado
 
-  gerer_relatorio_final(dados_alunos)
+  gerar_relatorio_final(dados_alunos)
