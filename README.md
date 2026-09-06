@@ -1,4 +1,4 @@
-# CEF-500
+# Controle de notas em Python
 def cadastrar_estudantes():
 
   """
